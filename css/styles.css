@@ -182,9 +182,6 @@ body {
   height: 85%;
   justify-content: space-between;
 }
-.container .items-wrapper .star img {
-  width: 1rem;
-}
 .container .items-wrapper h1 {
   color: hsl(0deg, 0%, 100%);
   font-weight: 700;
@@ -277,8 +274,8 @@ body {
     height: 40px;
     width: 40px;
   }
-  .container .items-wrapper .star img {
-    width: 0.8rem;
+  .container .items-wrapper .star .star__svg {
+    transform: scale(0.85);
   }
   .container .items-wrapper h1 {
     font-size: 1.5rem;
@@ -301,8 +298,8 @@ body {
   .container .items-wrapper.center > p {
     text-align: center;
   }
-  .container .items-wrapper .pic img {
-    height: 90px;
+  .container .items-wrapper .pic .pic__svg {
+    transform: scale(0.85);
   }
   .container .items-wrapper .you-selected {
     padding: 8px 13px;
