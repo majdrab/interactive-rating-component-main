@@ -14,8 +14,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
    -  [Continued development](#continued-development)
 -  [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -33,7 +31,7 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://your-solution-url.com)
+-  Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-l1igdW-Fik](https://www.frontendmentor.io/solutions/interactive-rating-component-l1igdW-Fik)
 -  Live Site URL: [https://majdrab.github.io/interactive-rating-component-main/](https://majdrab.github.io/interactive-rating-component-main/)
 
 ## My process
